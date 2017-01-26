@@ -1,0 +1,2 @@
+chmod +x kNN
+python kNN.py yeast_train.arff yeast_test.arff 3
